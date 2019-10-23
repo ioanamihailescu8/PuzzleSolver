@@ -1,5 +1,8 @@
 # PuzzleSolver
 \
+- written in MIPS and C
+\
+\
 The
 first input is a dictionary file, which consists of English words in lowercase alphabetic
 characters (
