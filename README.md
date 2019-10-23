@@ -1,6 +1,6 @@
 # PuzzleSolver
 \
-- written in MIPS and C
+written in MIPS and C
 \
 \
 The
